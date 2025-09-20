@@ -1,0 +1,27 @@
+"I am K Abhi Ram Reddy, an AI/ML engineering student passionate about applying technology to solve real-world problems. With hands-on experience as an AI/ML intern at Swecha Telangana, I have focused on building open-source solutions for social good. My work involves creating a Telugu Language Model (LLM) and applying my skills in Natural Language Processing (NLP), Deep Learning, and Python in a practical setting. I have also gained valuable experience with the full AI project lifecycle, from ideation to deployment and community contribution. I am currently pursuing a Bachelor of Technology in Artificial Intelligence at JNTUH College of Engineering Hyderabad."
+Experience (Projects to Showcase)
+Your "Summer of AI Intern" experience is the most important project to highlight in your portfolio. You can create a detailed case study for this project.
+Project Title: Building a Telugu Language Model (LLM) for Social Impact
+Key Details to Include:
+Your Role: AI/ML Engineering Intern
+Company/Organization: Swecha Telangana
+The Problem: Explain why building a Telugu LLM is important and what problem it solves.
+Your Responsibilities:
+Building and fine-tuning an LLM using TensorFlow and PyTorch.
+Implementing NLP techniques for data cleaning and preprocessing.
+Collaborating with a team using a Gitlab-based workflow.
+Using Streamlit to create a user-friendly demo.
+Skills Applied: Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), TensorFlow, PyTorch, Git, Streamlit.
+The Outcome: The project provides hands-on experience in the complete lifecycle of an AI project.
+Skills and Certifications
+This is an excellent section for your portfolio. You can list your skills and provide links to your certificates to prove your expertise.
+Programming & Frameworks: Python, TensorFlow, PyTorch, scikit-learn, Git, Gitlab, C++, Java.
+Specialized Knowledge: Machine Learning, Natural Language Processing (NLP), Deep Learning, Large Language Models (LLMs), Data Analysis.
+Other Skills: Software Development, Web Development, Engineering.
+Certifications:
+AI Aware Badge - AI For All
+AI Appreciate Badge - AI For All
+Summer Analytics 2025
+Education and Achievements
+Education: Bachelor of Technology in Artificial Intelligence from JNTUH College of Engineering Hyderabad. You can also mention your strong GPA (9.35) and your involvement in sports like cricket and volleyball to showcase teamwork and leadership.
+Activities: Mention your participation in the "The AllHackathon" event, as it demonstrates your passion and proactive nature in the AI/ML community.                                       My gmail: abhiramreddy123.k@gmail.com.                                     My Instagram ID : 00abhiram.                                                              My LinkedIn : https://www.linkedin.com/in/abhi-ram-reddy-kuppireddy-436632332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.                                                  My GitHub : https://github.com/00abhiram
